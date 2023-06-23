@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.step {
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+}
