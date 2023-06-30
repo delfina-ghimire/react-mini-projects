@@ -35,6 +35,24 @@ function Counter() {
   }
   return (
     <div>
+      <div className="stepCount">
+        <input
+          type="range"
+          min="0"
+          max="10"
+          value={stepCount}
+          onChange={(e) => setStepCount(Number(e.target.value))}
+        />
+        <h4> {`Step: ${stepCount}`} </h4>
+      </div>
+      <div className="stepCount">
+        <input
+          type="type"
+          value={stepCount}
+          onChange={(e) => setStepCount(Number(e.target.value))}
+        />
+        <h4> {`Step: ${stepCount}`} </h4>
+      </div>
       <div className="step">
         <button onClick={handleStepPrev}> - </button>
         <h4> {`Step: ${stepCount}`} </h4>
