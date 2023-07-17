@@ -1,5 +1,8 @@
 # react-mini-projects
 
-1. Roadmap - useState
-2. date-counter - useState
-3. Flashcard - useState
+1. Roadmap 
+2. date-counter
+3. Flashcard 
+4. Accordion
+5. Rating
+
