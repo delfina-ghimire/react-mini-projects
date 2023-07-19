@@ -5,4 +5,5 @@
 3. Flashcard 
 4. Accordion
 5. Rating
+6. TextExpander
 
