@@ -6,4 +6,5 @@
 4. Accordion
 5. Rating
 6. TextExpander
+7. Currency Converter
 
